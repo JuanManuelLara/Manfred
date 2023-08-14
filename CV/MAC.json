@@ -161,6 +161,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Career Essentials in Generative AI by Microsoft and LinkedIn",
+        "startDate": "2023-07-01",
+        "institution": {
+          "name": "Microsoft and LinkedIn",
+          "description": "Career Essentials in Generative AI by Microsoft and LinkedIn",
+          "URL": "https://www.linkedin.com/learning/certificates/bf3e946b5805d8486e660fb9d92e9bc40020c8e13eeab2d5607d98abe3d0af2a",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/14/d0d58c37-e481-4c64-9677-ba74585d7a1d_career_essentials_in.jpeg",
+            "alt": "Career_Essentials_in_Generative_AI_by_Microsoft_and_LinkedIn.jpeg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Gestion de proyectos con Jira [Project Management Institute (PMI)]",
         "startDate": "2023-06-01",
         "institution": {
