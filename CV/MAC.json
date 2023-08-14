@@ -247,6 +247,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Introduction to Artificial Intelligence",
+        "startDate": "2023-06-01",
+        "institution": {
+          "name": "Linkedln",
+          "description": "Certificado: Introduction to Artificial Intelligence",
+          "URL": "https://www.linkedin.com/learning/certificates/12d7efb57a5291a591c7319f49f255b885364569905558c7df77e4b3031922b9",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/14/892ebfed-ec95-4752-b402-f40970738c93_introduction_to_arti.jpeg",
+            "alt": "Introduction_to_Artificial_Intelligence.jpeg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "IA Generativa, Prompt Engenieers ",
         "startDate": "2022-11-01",
         "institution": {
