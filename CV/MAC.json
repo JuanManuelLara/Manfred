@@ -171,6 +171,17 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Informática y programación",
+        "startDate": "1987-09-01",
+        "institution": {
+          "name": "Centro Educativo C.E.D.E.C.O.",
+          "description": "Contabilidad Informatizada (Prácticas).\nInformática y programación,"
+        },
+        "finishDate": "1991-05-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Máster ",
         "startDate": "1987-09-01",
         "institution": {
