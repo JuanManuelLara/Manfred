@@ -226,6 +226,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Gestión de proyectos con Jira",
+        "startDate": "2023-06-01",
+        "institution": {
+          "name": "Linkedln",
+          "description": "Certificado: Gestión de proyectos con Jira",
+          "URL": "https://www.linkedin.com/learning/certificates/04e32ed96935881df12c7e30224a60358f27800ef2de1cbcf8432da8715c3e6a",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/14/9e6946b8-8bd6-4473-877d-f165c5776ddd_gestion-de-proyectos.jpg",
+            "alt": "Gestión de proyectos con Jira.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Jira",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "IA Generativa, Prompt Engenieers ",
         "startDate": "2022-11-01",
         "institution": {
