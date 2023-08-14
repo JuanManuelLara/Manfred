@@ -161,6 +161,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: 2023 Gestión Ágil de Proyectos con Scrum: Curso AGILE",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Certificado: 2023 Gestión Ágil de Proyectos con Scrum: Curso AGILE",
+          "URL": "https://www.udemy.com/certificate/UC-f502057c-427e-4fe8-b4bd-41a41fd01397",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/14/5d18bfdb-fa2e-47ae-ae90-dd0d14494961_2023-gestion-agil-de.jpg",
+            "alt": "2023 Gestión Ágil de Proyectos con Scrum Curso AGILE.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Artificial Intelligence - National Association of State of Accountancy (NASBA)",
         "startDate": "2023-06-01",
         "institution": {
