@@ -290,6 +290,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: What Is Generative AI?",
+        "startDate": "2023-06-01",
+        "institution": {
+          "name": "Linkedln",
+          "description": "Certificado: What Is Generative AI?",
+          "URL": "https://www.linkedin.com/learning/certificates/aaad16f6e3ff1856ff8ad4cb8edb595549a5d80453be2d7c87f84a5a4ce0f9e6",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/14/2d222baf-11aa-4f35-88b7-2d9598804b6c_what_is_generative_a.jpeg",
+            "alt": "What_Is_Generative_AI.jpeg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "IA Generativa, Prompt Engenieers ",
         "startDate": "2022-11-01",
         "institution": {
