@@ -161,6 +161,20 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Artificial Intelligence - National Association of State of Accountancy (NASBA)",
+        "startDate": "2023-06-01",
+        "institution": {
+          "name": "Linkedln",
+          "description": "Certificado:  Artificial Intelligence - National Association of State of Accountancy (NASBA)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/14/63aba356-bf57-440b-b1ab-9a6c5a19e9fa_artificial-intellige.jpeg",
+            "alt": "Artificial-Intelligence[National_Association_of_State_of_Accountancy_(NASBA)].jpeg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Career Essentials in Generative AI by Microsoft and LinkedIn",
         "startDate": "2023-07-01",
         "institution": {
