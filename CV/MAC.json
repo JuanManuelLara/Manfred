@@ -276,6 +276,20 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Streamlining Your Work with Microsoft Bing Chat",
+        "startDate": "2023-06-01",
+        "institution": {
+          "name": "Linkedln",
+          "description": "Certificado: Streamlining Your Work with Microsoft Bing Chat",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/14/ef015a37-f45d-469e-bfd3-49f7b384e5fb_streamlining_your_wo.jpeg",
+            "alt": "Streamlining_Your_Work_with_Microsoft_Bing_Chat.jpeg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "IA Generativa, Prompt Engenieers ",
         "startDate": "2022-11-01",
         "institution": {
