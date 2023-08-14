@@ -204,6 +204,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Fundamentos profesionales de análisis empresarial, por Microsoft y LinkedIn",
+        "startDate": "2023-06-01",
+        "institution": {
+          "name": "Microsoft y LinkedIn",
+          "description": "Certificado: Fundamentos profesionales de análisis empresarial, por Microsoft y LinkedIn",
+          "URL": "https://www.linkedin.com/learning/certificates/8a9816da9148ddd15ac113e01dbeb07183ddbcbced5f51bf4cc3a32d897d9049",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/14/439317c9-a467-48e3-87fd-e5aecebc8bc9_fundamentos-profesio.jpeg",
+            "alt": "Fundamentos-profesionales-del-análisis-de-datos.jpeg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Generative AI: The Evolution of Thoughtful Online Search",
         "startDate": "2023-06-01",
         "institution": {
