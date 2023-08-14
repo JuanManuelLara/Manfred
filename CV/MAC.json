@@ -176,6 +176,20 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Ethics in the Age of Generative AI",
+        "startDate": "2023-06-01",
+        "institution": {
+          "name": "LinkedIn",
+          "description": "Certificado: Ethics in the Age of Generative AI",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/14/72af3629-3521-4f6c-b27b-57db28b94387_ethics_in_the_age_of.jpeg",
+            "alt": "Ethics_in_the_Age_of_Generative_AI.jpeg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Gestion de proyectos con Jira [Project Management Institute (PMI)]",
         "startDate": "2023-06-01",
         "institution": {
