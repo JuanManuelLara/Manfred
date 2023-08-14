@@ -1,0 +1,283 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Juan Manuel ",
+      "surnames": "Lara López de la Reina",
+      "title": "| Cybersecurity | Ethical Hacking |SAP| Big Data | Artificial Intelligence | Power BI | Digital Marketing | Content Marketing | SEO | CRM Management | Salesforce | HubSpot | Creating and Managing High-Performance Teams |",
+      "description": "Como profesional versátil y orientado a resultados con una amplia experiencia en gestión de equipos, aporto un enfoque dinámico y proactivo, junto con una sólida comprensión de la tecnología digital y el desarrollo y gestión de equipos de alto rendimiento. \nPoseo una combinación única de competencias en la toma de decisiones, desarrollo de negocios, enfoque en el cliente, negociación, adaptabilidad y habilidades interpersonales. Además, mi experiencia en consultoría, gestión financiera, delegación, autonomía y capacidad para trabajar bajo presión, han sido fundamentales para mi éxito. \nCon mis capacidades de trabajo remoto y mi disposición para viajar, confío en mi capacidad para proporcionar soluciones eficientes y efectivas para cumplir con sus objetivos comerciales.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/13/6d4c267b-5ada-48ed-ab23-d917925a0a1d_1674580817845.jpg",
+        "alt": "1674580817845.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJr1hLswoYaQ0RNNAbiLgWDlU)",
+        "country": "España",
+        "region": "Castilla-La Mancha",
+        "municipality": "La Solana"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "AMSUR, Agencia Exclusiva de Santa Lucía Seguros"
+        },
+        "roles": [
+          {
+            "name": "Gerente de sucursal",
+            "startDate": "1998-06-01",
+            "challenges": [
+              {
+                "description": "• En los últimos 5 años, he alcanzado con éxito los objetivos comerciales, superando las metas proyectadas y logrando un incremento de ingresos del 14%, 19%, 9%, 17% y 12%, respectivamente, más allá de las expectativas. \n• Realizo análisis de mercado para identificar oportunidades de negocio y proponer estrategias que aseguren un crecimiento constante. \n• Superviso el desempeño de los empleados, identificando fortalezas y áreas de mejora para maximizar su rendimiento y desarrollo profesional.\n• Administro cuentas por cobrar y la facturación, manteniendo un control riguroso de los gastos y presupuestos. \n• Colaboro en la definición de presupuestos y desarrollo e implementación de estrategias y políticas para alcanzar los objetivos establecidos.\n• Mantengo y fomento relaciones sólidas con los clientes, garantizando su lealtad y satisfacción. \n• Organizo tareas y delego responsabilidades de manera eficiente, optimizando la carga de trabajo y el rendimiento del equipo. \n• Identifico oportunidades de expansión y propongo estrategias para lograr un crecimiento sostenido y rentable. \n• Negocio con clientes existentes y establezco nuevas relaciones comerciales para fortalecer la cartera de clientes. \n• Estudio constantemente el mercado para identificar oportunidades de expansión y ajustar las estrategias operativas. \n• Coordino y superviso los recursos humanos en los departamentos bajo mi responsabilidad, garantizando un ambiente de trabajo colaborativo y productivo. \n• Desarrollo estrategias de colaboración con el objetivo de aumentar los ingresos, las ganancias y el crecimiento global de la empresa. \n• Utilizo herramientas de gestión CRM - ForceManager, SalesForce y HubSpot para optimizar la gestión de ventas y mejorar la relación con los clientes. \n• Creo y gestiono equipos de alto rendimiento, asignando funciones específicas para cada área de trabajo y asegurando el logro de los objetivos establecidos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "AMSUR Cía Mediación AMSUR/ZONA II"
+        },
+        "roles": [
+          {
+            "name": "Inspección",
+            "startDate": "1993-05-01",
+            "finishDate": "1998-05-31",
+            "challenges": [
+              {
+                "description": "• Mantenimiento y crecimiento de la cartera.\n• Prospección de clientes, desarrollo y ampliación de la cartera existente.\n• Venta domiciliaria.\n• Gestión y apoyo comercial a SAD, SAV."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "AMSUR Cía Mediación AMSUR/ZONA II"
+        },
+        "roles": [
+          {
+            "name": "Auxiliar",
+            "startDate": "1992-11-01",
+            "finishDate": "1993-05-31",
+            "challenges": [
+              {
+                "description": "• Prospección de clientes, desarrollo y ampliación de la cartera existente.\n• Verificación de ventas y pagos, y gestión de la facturación correspondiente.\n• Elaboración de presupuestos y cotizaciones para los clientes, redacción de ofertas y contratos de venta.\n• Asesoramiento al cliente sobre productos y servicios, reportando de forma oportuna las quejas y sugerencias.\n• Monitorización de las ventas diarias, controlando las fases del proceso hasta la entrega final del producto."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Web personal ",
+          "description": "Diseño, creación y funcionamiento operativo de una web utilizando únicamente IA mediante Prompt sin picar código.\n\n//** En construcción **\\\\"
+        },
+        "type": "achievement",
+        "publishingDate": "2023-06-01",
+        "relatedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "IT",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "PT",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hubspot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Salesforce",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Salesforce Marketing Cloud",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "IA Generativa, Prompt Engenieers ",
+        "startDate": "2022-11-01",
+        "institution": {
+          "name": "UDEMY",
+          "description": "Desarrollo con IA proyectos escalables y funcionales"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Máster ",
+        "startDate": "1987-09-01",
+        "institution": {
+          "name": "C.E.D.E.C.O.",
+          "description": "Ciberseguridad, Haching Ético, "
+        },
+        "finishDate": "1991-05-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de autogestión",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gestión de equipo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/juan-manuel-lara-lopez-de-la-reina-287751176/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/JuanManuelLara",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "jumalalore@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "685693544",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Apache",
+          "type": "technology"
+        },
+        {
+          "name": "PyCharm",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Solidity",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Account Executive",
+        "Backend Developer",
+        "Content Marketing & Design",
+        "Human Resources",
+        "Lead Product Manager",
+        "SEO Marketing",
+        "Security Engineer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Salesforce",
+        "type": "technology"
+      },
+      {
+        "name": "Salesforce Marketing Cloud",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Diseñar soluciones innovadoras que faciliten el día a día.",
+    "goodPractices": "\"A lo largo de mi carrera, he desarrollado y puesto en práctica varias buenas prácticas que considero clave para el éxito en mi trabajo.\n\nEn cuanto a la gestión de equipos, promuevo una comunicación abierta y transparente, empoderando a los miembros del equipo y fomentando su desarrollo profesional. Asimismo, establezco objetivos claros y hago un seguimiento regular del progreso para garantizar que vamos por el buen camino.\n\nCon respecto a la orientación al cliente, me aseguro de comprender bien sus necesidades y expectativas. Luego, busco soluciones creativas que aporten valor, manteniendo una comunicación proactiva durante todo el proceso.\n\nEn términos de adaptabilidad y trabajo bajo presión, mantengo la calma en situaciones estresantes. Analizo rápidamente los cambios en el entorno y redefino prioridades y plazos cuando es necesario, garantizando siempre la calidad del trabajo.\n\nPor último, respecto a la gestión de proyectos, defino planes detallados, establezco hitos y hago un seguimiento minucioso de cada fase. Anticipo posibles riesgos e implemento medidas preventivas. Todo ello asegurando que se cumplan los objetivos en tiempo y forma.\""
+  }
+}
