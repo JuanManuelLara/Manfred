@@ -190,6 +190,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Generative AI: The Evolution of Thoughtful Online Search",
+        "startDate": "2023-06-01",
+        "institution": {
+          "name": "Linkedln",
+          "description": "Certificado: Generative AI: The Evolution of Thoughtful Online Search",
+          "URL": "https://www.linkedin.com/learning/certificates/af2eb396fa42282e8070dfcdb352dac08dd48acc81d80f3bedecdadc9b642aff",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/14/083258a9-cf5e-4b4d-8094-463a4d38c741_generative_ai_the_ev.jpeg",
+            "alt": "Generative_AI_The_Evolution_of_Thoughtful_Online_Search.jpeg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Gestion de proyectos con Jira [Project Management Institute (PMI)]",
         "startDate": "2023-06-01",
         "institution": {
