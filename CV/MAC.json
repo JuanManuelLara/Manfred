@@ -220,6 +220,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: ChatGPT : The Complete Bootcamp for Beginner With Practical",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Certificado: ChatGPT : The Complete Bootcamp for Beginner With Practical",
+          "URL": "https://www.udemy.com/certificate/UC-a12a24f7-ad04-429a-85a5-5e923a7a5257",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/14/9f6cbe22-8c2e-45b6-aab5-850e091408ac_chatgpt-the-complete.jpg",
+            "alt": "ChatGPT  The Complete Bootcamp for Beginner With Practical.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Ethics in the Age of Generative AI",
         "startDate": "2023-06-01",
         "institution": {
