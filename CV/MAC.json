@@ -190,6 +190,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Bootcamp de ChatGPT y Prompt Engineering: de cero a experto",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Certificado: Bootcamp de ChatGPT y Prompt Engineering: de cero a experto",
+          "URL": "https://www.udemy.com/certificate/UC-a8bde367-3354-4ad3-8a4b-9cb190052a39",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/14/b1d43a33-8518-487d-9339-5e022daad5b6_bootcamp-de-chatgpt-.jpg",
+            "alt": "Bootcamp de ChatGPT y Prompt Engineering de cero a experto.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Career Essentials in Generative AI by Microsoft and LinkedIn",
         "startDate": "2023-07-01",
         "institution": {
