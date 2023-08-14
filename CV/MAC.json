@@ -161,6 +161,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Gestion de proyectos con Jira [Project Management Institute (PMI)]",
+        "startDate": "2023-06-01",
+        "institution": {
+          "name": "Linkedlin",
+          "description": "Certificado: Gestión de proyectos con Jira [Project Management Institute (PMI)]",
+          "URL": "https://www.linkedin.com/learning/certificates/4629d32bef81d792c73d5eb109a71f358855178719c1d0b5877e944dfd6fde5e",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/14/e4f6e6c9-92aa-4e9b-8ff7-ffbc49580018_certificado-gestion-.jpg",
+            "alt": "Certificado Gestion de proyectos con Jira [Project Management Institute (PMI)].jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Jira",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "IA Generativa, Prompt Engenieers ",
         "startDate": "2022-11-01",
         "institution": {
@@ -183,12 +204,16 @@
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Máster ",
-        "startDate": "1987-09-01",
+        "startDate": "2021-03-01",
         "institution": {
-          "name": "C.E.D.E.C.O.",
-          "description": "Ciberseguridad, Haching Ético, "
+          "name": "UDEMY",
+          "description": "Ciberseguridad, Haching Ético, ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/14/6aec2dc3-8090-40f6-bd6d-ae63837f4bb8_uc-601724e9-9c04-4bf.jpg",
+            "alt": "UC-601724e9-9c04-4bf1-9912-a8671cd750fe.jpg"
+          }
         },
-        "finishDate": "1991-05-01"
+        "finishDate": "2021-11-01"
       }
     ],
     "softSkills": [
