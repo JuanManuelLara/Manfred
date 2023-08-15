@@ -181,7 +181,11 @@
         "institution": {
           "name": "Linkedln",
           "description": "Certificado: Análisis empresarial",
-          "URL": "https://www.linkedin.com/learning/certificates/59c8e3d7ed6f0f8998ac533bd8f4aee68e565eccbc2cc92125dfaa474071a968"
+          "URL": "https://www.linkedin.com/learning/certificates/59c8e3d7ed6f0f8998ac533bd8f4aee68e565eccbc2cc92125dfaa474071a968",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/15/5f7d3af3-41fe-41f1-b0af-c081bbc9d58d_analisis-empresarial.jpg",
+            "alt": "Análisis empresarial.jpg"
+          }
         }
       },
       {
