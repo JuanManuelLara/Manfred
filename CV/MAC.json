@@ -655,6 +655,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: SAP ABAP Iniciación a la programación",
+        "startDate": "2023-04-01",
+        "institution": {
+          "name": "Logali Group",
+          "description": "Certificado: SAP ABAP Iniciación a la programación",
+          "URL": "https://academy.logaligroup.com/mod/simplecertificate/verify.php?code=644559fc-20f4-4eb6-91fa-74266c3dcfbb",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/15/c79a4f7c-584d-45e5-af25-e17bd17f921e_iniciacion_en_progra.jpg",
+            "alt": "Iniciación_en_programación_SAP_ABAP_-Obtener_Certificado_de_aprovechamiento_22547.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Streamlining Your Work with Microsoft Bing Chat",
         "startDate": "2023-06-01",
         "institution": {
