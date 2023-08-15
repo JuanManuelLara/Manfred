@@ -235,6 +235,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Digitaliza tu Negocio - Transformación Digital",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Certificado: Digitaliza tu Negocio - Transformación Digital",
+          "URL": "https://www.udemy.com/certificate/UC-aa41cdd2-d982-473b-a310-108d9c650f6f",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/15/dc587e09-3e20-494b-95d2-c4e6e701e6e7_digitaliza-tu-negoci.jpg",
+            "alt": "Digitaliza tu Negocio - Transformación Digital.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Ethics in the Age of Generative AI",
         "startDate": "2023-06-01",
         "institution": {
