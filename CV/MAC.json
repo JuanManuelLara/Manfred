@@ -353,6 +353,17 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Fundamentos profesionales del desarrollo de software, por Microsoft y LinkedIn",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Microsoft y LinkedIn",
+          "description": "Certificado: Fundamentos profesionales del desarrollo de software, por Microsoft y LinkedIn",
+          "URL": "https://www.linkedin.com/learning/certificates/ac00c5fad8db96c46d8a2acbe529725ee4852e765a06ee947260d1ca3ee3b67c"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Generative AI: The Evolution of Thoughtful Online Search",
         "startDate": "2023-06-01",
         "institution": {
