@@ -2,7 +2,7 @@
 
 # Juan Manuel  Lara López de la Reina's CV
 
-This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/00b170e3-d3aa-4c27-bf48-372e977e6dfe).
+This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format.
 <br/>
 <br/>
 
