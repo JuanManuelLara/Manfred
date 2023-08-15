@@ -589,6 +589,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Inteligencia Artificial: ChatGPT, DALL-E y Hugging Face",
+        "startDate": "2023-04-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "Certificado: Inteligencia Artificial: ChatGPT, DALL-E y Hugging Face",
+          "URL": "https://platzi.com/p/jumalalore/curso/6935-course/diploma/detalle/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/15/4d96583d-186b-4a0f-8d56-511f1e1d13f0_inteligencia-artific.jpeg",
+            "alt": "Inteligencia-Artificial-ChatGPT-DALL-E-y-Hugging-Face[Platzy].jpeg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Introduction to Artificial Intelligence",
         "startDate": "2023-06-01",
         "institution": {
