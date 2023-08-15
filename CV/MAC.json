@@ -351,6 +351,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Microsoft 365 -  Microsoft y Courtney Hodge",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Linkedln",
+          "description": "Certificado: Microsoft 365 -  Microsoft y Courtney Hodge",
+          "URL": "https://www.linkedin.com/learning/certificates/8f4320b3465355f3046c38a12f6c9c353e03e74a0ae05b4f28c83c3888b13f8d",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/15/98a9c082-02f6-48ff-92e0-e35eaad9bed2_microsoft-365---micr.jpg",
+            "alt": "Microsoft 365 -  Microsoft y Courtney Hodge.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Microsoft Office 365",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Streamlining Your Work with Microsoft Bing Chat",
         "startDate": "2023-06-01",
         "institution": {
