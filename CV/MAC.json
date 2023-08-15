@@ -440,6 +440,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Gestión de proyectos con Microsoft 365",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Linkedln",
+          "description": "Certificado: Gestión de proyectos con Microsoft 365",
+          "URL": "https://www.linkedin.com/learning/certificates/3fe2ff1ae8725fac68382105924e5a39164165d1c6df59e08eba296eaf197f1b",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/15/4994e9f8-2e41-4429-9967-d1353028bef8_gestion-de-proyectos.jpg",
+            "alt": "Gestión de proyectos con Microsoft 365.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Gestión de proyectos: Calendarios",
         "startDate": "2023-05-01",
         "institution": {
