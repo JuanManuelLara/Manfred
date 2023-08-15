@@ -408,21 +408,6 @@
         }
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": false,
-        "name": "Certificado: Gestión de proyectos: Equipos",
-        "startDate": "2023-05-01",
-        "institution": {
-          "name": "Linkedln",
-          "description": "Certificado: Gestión de proyectos: Equipos",
-          "URL": "https://www.linkedin.com/learning/certificates/e6c03eace88d8036ba341c943096e748acff73fa46c15b45f843fe61969336d1",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/15/0a2fc247-fabf-4916-9e9c-5caad8949a7d_gestion-de-proyectos.jpg",
-            "alt": "Gestión de proyectos - Equipos.jpg"
-          }
-        }
-      },
-      {
         "studyType": "certification",
         "degreeAchieved": false,
         "name": "Certificado: Introduction to Artificial Intelligence",
