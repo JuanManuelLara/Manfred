@@ -293,6 +293,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Fundamentos esenciales de la programación",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Linkedln",
+          "description": "Certificado: Fundamentos esenciales de la programación",
+          "URL": "https://www.linkedin.com/learning/certificates/9eb384f940251f6834230ae47cd7651b2fb46ad34a6354f60763408a40b65209",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/15/4f7597ca-c832-445a-b8d9-0bf15114f4aa_fundamentos-esencial.jpg",
+            "alt": "Fundamentos esenciales de la programación.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Fundamentos profesionales de análisis empresarial, por Microsoft y LinkedIn",
         "startDate": "2023-06-01",
         "institution": {
