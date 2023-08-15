@@ -323,6 +323,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Fundamentos profesionales de gestión de proyectos, por Microsoft y LinkedIn",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Microsoft y LinkedIn",
+          "description": "Certificado: Fundamentos profesionales de gestión de proyectos, por Microsoft y LinkedIn",
+          "URL": "https://www.linkedin.com/learning/certificates/037da074c1fd08e42faaa47ce8ee2ed530dd9e1a3eb94ea8f1eb9be3978088e5",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/15/a6e76513-e5e5-4427-9f54-afb3cf50ee93_fundamentos-profesio.jpg",
+            "alt": "Fundamentos profesionales de gestión de proyectos, por Microsoft y LinkedIn.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Fundamentos profesionales del desarrollo de software, por Microsoft y LinkedIn",
         "startDate": "2023-06-01",
         "institution": {
