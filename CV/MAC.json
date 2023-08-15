@@ -625,6 +625,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Optimiza tu trabajo con Microsoft 365",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Linkedln",
+          "description": "Certificado: Optimiza tu trabajo con Microsoft 365",
+          "URL": "https://www.linkedin.com/learning/certificates/87f236012a6d3fc2e7a1ffaa1e79632b452122848e4acff71e4918e68cfdfb48",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/15/2ba03f5b-fd6a-43cb-9a48-8ef48b6903f0_optimiza-tu-trabajo-.jpg",
+            "alt": "Optimiza tu trabajo con Microsoft 365.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Streamlining Your Work with Microsoft Bing Chat",
         "startDate": "2023-06-01",
         "institution": {
