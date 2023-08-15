@@ -670,6 +670,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: SAP Conceptos e Iniciación",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "Logali Group",
+          "description": "Certificado: SAP Conceptos e Iniciación",
+          "URL": "https://academy.logaligroup.com/mod/simplecertificate/verify.php?code=6419a1e4-32c4-4b55-b11c-1f146c3dcfbb",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/15/18a5747e-e45f-4204-9b7e-fcd2bfb54a21_sap_conceptos_e_inic.jpg",
+            "alt": "SAP_Conceptos_e_iniciación-Obtener_Certificado_de_aprovechamiento_22187.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Streamlining Your Work with Microsoft Bing Chat",
         "startDate": "2023-06-01",
         "institution": {
