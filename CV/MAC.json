@@ -574,6 +574,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Habilidades profesionales en el desarrollo de software",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Linkedln",
+          "description": "Certificado: Habilidades profesionales en el desarrollo de software",
+          "URL": "https://www.linkedin.com/learning/certificates/f061f90dd3b2971884bebad1cde7210c15c5609b907c498feb0965305779c1f5",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/15/c9e75f1b-ba06-40ae-9434-932a189a00f7_habilidades-profesio.jpg",
+            "alt": "Habilidades profesionales en el desarrollo de software.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Introduction to Artificial Intelligence",
         "startDate": "2023-06-01",
         "institution": {
