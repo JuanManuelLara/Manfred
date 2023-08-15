@@ -264,6 +264,20 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Fundamentos de la carrera de administración de sistemas de Microsoft y LinkedIn",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Microsoft y LinkedIn",
+          "description": "Certificado: Fundamentos de la carrera de administración de sistemas de Microsoft y LinkedIn",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/15/9d4d634b-030a-454a-9280-a807691f6a03_fundamentos-de-la-ca.jpg",
+            "alt": "Fundamentos de la carrera de administración de sistemas de Microsoft y LinkedIn.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Fundamentos profesionales de análisis empresarial, por Microsoft y LinkedIn",
         "startDate": "2023-06-01",
         "institution": {
