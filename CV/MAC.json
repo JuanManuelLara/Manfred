@@ -176,6 +176,17 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Análisis empresarial",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Linkedln",
+          "description": "Certificado: Análisis empresarial",
+          "URL": "https://www.linkedin.com/learning/certificates/59c8e3d7ed6f0f8998ac533bd8f4aee68e565eccbc2cc92125dfaa474071a968"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Artificial Intelligence - National Association of State of Accountancy (NASBA)",
         "startDate": "2023-06-01",
         "institution": {
