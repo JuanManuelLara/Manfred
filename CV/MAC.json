@@ -365,6 +365,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Gestión de proyectos: Calendarios",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Linkedln",
+          "description": "Certificado: Gestión de proyectos: Calendarios",
+          "URL": "https://www.linkedin.com/learning/certificates/32dfcefc69132a99da7cfc4f00f11975bc8c8573adcddc64aaa3007e3716ae87",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/15/b5e4a325-efcb-424d-9005-67207720d9b8_gestion-de-proyectos.jpg",
+            "alt": "Gestión de proyectos - Calendarios.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Introduction to Artificial Intelligence",
         "startDate": "2023-06-01",
         "institution": {
