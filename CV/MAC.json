@@ -344,6 +344,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Gestión de proyectos",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Linkedln",
+          "description": "Certificado: Gestión de proyectos",
+          "URL": "https://www.linkedin.com/learning/certificates/ee2ce3a8fafaaee5878cb078a9a2f76aa03e0db8563996ea458a1db71c42779d",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/15/d619c395-35e8-441b-9cad-5ee4bdae2316_gestion-de-proyectos.jpg",
+            "alt": "Gestión de proyectos.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Gestión de proyectos con Jira",
         "startDate": "2023-06-01",
         "institution": {
