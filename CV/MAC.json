@@ -685,6 +685,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Scrum Fundamentals Certified (SFC)",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "SCRUMstudy - Accreditation Body for Scrum and Agile",
+          "description": "Certificado: Scrum Fundamentals Certified (SFC)\n",
+          "URL": "https://www.scrumstudy.com/certification/verify?type=SFC&number=972186",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/15/b72128b7-79f3-41c0-989c-200dda7ebafd_scrum-fundamentals-c.jpg",
+            "alt": "Scrum Fundamentals Certified (SFC).jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Streamlining Your Work with Microsoft Bing Chat",
         "startDate": "2023-06-01",
         "institution": {
