@@ -469,6 +469,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Gestión de proyectos: Ética",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Linkedln",
+          "description": "Certificado: Gestión de proyectos: Ética",
+          "URL": "https://www.linkedin.com/learning/certificates/5c416cec9978f7dae1a1052ce5ff4393270e31f8d141e5b8f91721042b637d98",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/15/e24d56f4-cf4d-4cd1-bd6f-7b5cde1024bb_gestion-de-proyectos.jpg",
+            "alt": "Gestión de proyectos - Ética.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Introduction to Artificial Intelligence",
         "startDate": "2023-06-01",
         "institution": {
