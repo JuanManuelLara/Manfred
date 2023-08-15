@@ -395,6 +395,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado: Gestión de proyectos: Comunicación",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Linkedln",
+          "description": "Certificado: Gestión de proyectos: Comunicación",
+          "URL": "https://www.linkedin.com/learning/certificates/b3d2da9a5fc63b55646ca03394ae1dfc17da385b39e791b45ae3deacbddcfb25",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/15/7179a749-d584-488f-ae58-cff2b3efdf75_gestion-de-proyectos.jpg",
+            "alt": "Gestión de proyectos - Comunicación.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado: Introduction to Artificial Intelligence",
         "startDate": "2023-06-01",
         "institution": {
