@@ -134,12 +134,6 @@
       },
       {
         "skill": {
-          "name": "Hubspot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Python",
           "type": "technology"
         }
