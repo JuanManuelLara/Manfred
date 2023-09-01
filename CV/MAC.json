@@ -80,7 +80,11 @@
         "details": {
           "name": "Mi web Personal",
           "description": "Innovando con ChatGPT: Creación de un Sitio Web a Través de la Interacción con \"Prompt\".\nDiseño, creación y lanzamiento de un sitio web utilizando exclusivamente la IA en todo el proceso, prescindiendo por completo del código, mediante el uso de 'prompts' detallados.",
-          "URL": "https://mi-web-personal.netlify.app/"
+          "URL": "https://mi-web-personal.netlify.app/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/01/dcb3f8bc-6be1-4f07-9a4d-e08c30ab496f_1674580817845.jpg",
+            "alt": "1674580817845.jpg"
+          }
         },
         "type": "openSource",
         "roles": [
