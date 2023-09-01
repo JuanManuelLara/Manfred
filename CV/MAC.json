@@ -149,12 +149,6 @@
           "name": "Salesforce",
           "type": "technology"
         }
-      },
-      {
-        "skill": {
-          "name": "Salesforce Marketing Cloud",
-          "type": "technology"
-        }
       }
     ],
     "studies": [
@@ -853,10 +847,6 @@
       },
       {
         "name": "Salesforce",
-        "type": "technology"
-      },
-      {
-        "name": "Salesforce Marketing Cloud",
         "type": "technology"
       }
     ],
