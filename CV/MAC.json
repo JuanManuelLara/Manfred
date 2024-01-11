@@ -35,15 +35,150 @@
     "jobs": [
       {
         "organization": {
-          "name": "AMSUR, Agencia Exclusiva de Santa Lucía Seguros"
+          "name": "AMSUR, "
         },
         "roles": [
           {
-            "name": "Gerente de sucursal",
+            "name": "Gerente de proyectos",
             "startDate": "1998-06-01",
+            "finishDate": "2024-01-01",
             "challenges": [
               {
                 "description": "• En los últimos 5 años, he alcanzado con éxito los objetivos comerciales, superando las metas proyectadas y logrando un incremento de ingresos del 14%, 19%, 9%, 17% y 12%, respectivamente, más allá de las expectativas.\n• Realizo análisis de mercado para identificar oportunidades de negocio y proponer estrategias que aseguren un crecimiento constante.\n• Superviso el desempeño de los empleados, identificando fortalezas y áreas de mejora para maximizar su rendimiento y desarrollo profesional.\n• Administro cuentas por cobrar y la facturación, manteniendo un control riguroso de los gastos y presupuestos.\n• Colaboro en la definición de presupuestos y desarrollo e implementación de estrategias y políticas para alcanzar los objetivos establecidos.\n• Mantengo y fomento relaciones sólidas con los clientes, garantizando su lealtad y satisfacción.\n• Organizo tareas y delego responsabilidades de manera eficiente, optimizando la carga de trabajo y el rendimiento del equipo.\n• Identifico oportunidades de expansión y propongo estrategias para lograr un crecimiento sostenido y rentable.\n• Negocio con clientes existentes y establezco nuevas relaciones comerciales para fortalecer la cartera de clientes.\n• Estudio constantemente el mercado para identificar oportunidades de expansión y ajustar las estrategias operativas.\n• Coordino y superviso los recursos humanos en los departamentos bajo mi responsabilidad, garantizando un ambiente de trabajo colaborativo y productivo.\n• Desarrollo estrategias de colaboración con el objetivo de aumentar los ingresos, las ganancias y el crecimiento global de la empresa.\n• Utilizo herramientas de gestión CRM - ForceManager, SalesForce y HubSpot para optimizar la gestión de ventas y mejorar la relación con los clientes.\n• Creo y gestiono equipos de alto rendimiento, asignando funciones específicas para cada área de trabajo y asegurando el logro de los objetivos establecidos."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Adobe Dreamweaver",
+                "type": "technology"
+              },
+              {
+                "name": "BigQuery",
+                "type": "technology"
+              },
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "CMS",
+                "type": "technology"
+              },
+              {
+                "name": "CRM",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Canva",
+                "type": "technology"
+              },
+              {
+                "name": "Ethereum",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "Flask",
+                "type": "technology"
+              },
+              {
+                "name": "Flutter",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Go",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Hubspot",
+                "type": "technology"
+              },
+              {
+                "name": "Hyper-v",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Office 365",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Nmap",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Postman",
+                "type": "technology"
+              },
+              {
+                "name": "PyCharm",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "SAP HANA",
+                "type": "technology"
+              },
+              {
+                "name": "VirtualBox",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
               }
             ]
           }
